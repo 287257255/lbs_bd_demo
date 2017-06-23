@@ -3,13 +3,13 @@
  */
 package com.baidu.bikenavi_demo.location;
 
-import com.baidu.mapapi.JNIInitializer;
-
 import android.content.Context;
 import android.location.Location;
 import android.location.LocationListener;
 import android.location.LocationManager;
 import android.os.Bundle;
+
+import com.baidu.mapapi.JNIInitializer;
 
 /**
  * @author by liuhongjian01 on 16/8/17.
